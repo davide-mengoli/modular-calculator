@@ -1,10 +1,10 @@
 # Calculator
 
-A simple calculator toolkit written in Python, with several UIs.
+A simple calculator toolkit written in Python, with several UIs, cloned by Davide Mengoli
 
 ## Remarks
 
-UI code is clearly separated from the business logic.
+UI code is clearly separated from the business logic. (sure)
 Actually, two sorts of UIs are provided: a command-line interface (CLI) and a graphical user interface (GUI),
 based on [Kivy](https://kivy.org/).
 
